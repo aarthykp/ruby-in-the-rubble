@@ -6,7 +6,7 @@ puts 30 * 4
 print 3 + 1
 print 5 * 2 
 print "\n"
-gets 
+
 first_name = "Aarthy"
 lat_name ="palanivelu"
 favorite_color = "red"
